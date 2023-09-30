@@ -1,7 +1,10 @@
 # attack-trees
 This repository complements the paper: 
-** Revisiting Attack Trees for Modeling Machine Pwning in Training Environments ** 
+
+**Revisiting Attack Trees for Modeling Machine Pwning in Training Environments** 
+
 which was accepted at The Third Intelligent Cybersecurity Conference (ICSC2023) 
+
 https://www.icsc-conference.org/2023/index.php
 
 AUTHORS: Khouloud Samrouth, Mohamad Nassar and Hussein Harb
