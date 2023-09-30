@@ -6,12 +6,12 @@ https://www.icsc-conference.org/2023/index.php
 
 AUTHORS: Khouloud Samrouth, Mohamad Nassar and Hussein Harb
 
-**Appendix A:** [Examples of attack trees](examples)
+**Appendix A:** [Examples of attack trees](examples.md)
 
-**Appendix B:** [Generating Attack Trees with Mermaid](mermaid)
+**Appendix B:** [Generating Attack Trees with Mermaid](mermaid.md)
 
 **Appendix C:** [Conversation With ChatGPT Using the Attack Tree of the
-Machine Garaa](chatgpt)
+Machine Garaa](chatgpt.md)
 
 
 
